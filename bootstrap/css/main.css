@@ -1,0 +1,11 @@
+#pitch {
+
+	background-image: url('image/coca-cola1.jpg');
+	padding:140px 0px;
+	background-size: cover;
+}
+#footer{
+
+	background-color: orange;
+	font-size: 40px;
+}
